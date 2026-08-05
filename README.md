@@ -1,5 +1,8 @@
 # AI Ethics in Education Framework
 
+**[Live demo / docs](https://freddricklogan.github.io/ai-ethics-education-framework/)** &nbsp;|&nbsp; [Portfolio](https://fredlogan.phd) &nbsp;|&nbsp; [All Projects](https://freddricklogan.github.io/projects/)
+
+
 A comprehensive framework providing guidelines, assessment tools, and curriculum resources for the ethical development, deployment, and governance of artificial intelligence in educational settings.
 
 ## Overview
