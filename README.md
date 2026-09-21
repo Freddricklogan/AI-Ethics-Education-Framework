@@ -3,7 +3,7 @@
 [![CI/CD](https://github.com/Freddricklogan/AI-Ethics-Education-Framework/actions/workflows/deploy.yml/badge.svg)](https://github.com/Freddricklogan/AI-Ethics-Education-Framework/actions/workflows/deploy.yml)
 [![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)](#5-getting-started--verification)
 [![Security (CodeQL)](https://github.com/Freddricklogan/AI-Ethics-Education-Framework/actions/workflows/codeql.yml/badge.svg)](https://github.com/Freddricklogan/AI-Ethics-Education-Framework/actions/workflows/codeql.yml)
-[![License MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![License CC BY 4.0 / MIT](https://img.shields.io/badge/license-CC%20BY%204.0%20%2F%20MIT-blue)](LICENSE)
 [![Live Site](https://img.shields.io/badge/live%20site-online-brightgreen)](https://freddricklogan.github.io/AI-Ethics-Education-Framework/)
 
 ## 1. Executive Summary & Business Impact
@@ -122,4 +122,4 @@ calculator) use the same site kit.
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+Framework documents CC BY 4.0 (as the original README stated); code MIT — see [LICENSE](LICENSE).
