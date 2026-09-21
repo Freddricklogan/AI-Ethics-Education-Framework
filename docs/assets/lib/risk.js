@@ -36,11 +36,7 @@ const RANK = { L: 0, M: 1, H: 2 };
 /** Worksheet convention: rating = likelihood × impact on a 3×3 matrix. */
 export function rate(likelihood, impact) {
   if (!(likelihood in RANK) || !(impact in RANK)) return null;
-  const s = RANK[likelihood] + RANK[impact];
-  if (s === 4) return 'Critical';
-  if (s === 3) return 'High';
-  if (s === 2) return 'Medium';
-  return 'Low';
+  return ['Low', 'Low', 'Medium', 'High', 'Critical'][RANK[likelihood] + RANK[impact]];
 }
 
 /** entries: array aligned with RISKS of { likelihood: 'H'|'M'|'L'|null, impact: same, mitigation: string };
