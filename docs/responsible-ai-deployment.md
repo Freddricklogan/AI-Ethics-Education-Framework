@@ -58,7 +58,7 @@ For vendor-supplied AI tools, evaluate the following:
 
 ### 1.3 Impact Assessment
 
-Complete a formal AI Impact Assessment (see template in `templates/ai-impact-assessment.md`) covering:
+Complete a formal AI Impact Assessment (see the [AI Impact Assessment template](ai-impact-assessment.md)) covering:
 
 - **Educational impact**: Expected benefits and risks to learning outcomes
 - **Equity impact**: Potential for differential effects across student populations
