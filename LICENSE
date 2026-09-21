@@ -1,3 +1,14 @@
+Licensing
+
+1. Framework documents (everything under docs/ except docs/assets/ and
+   docs/tools/, plus AUDIT.md and README.md) are licensed under the
+   Creative Commons Attribution 4.0 International License (CC BY 4.0),
+   as the original README stated:
+   https://creativecommons.org/licenses/by/4.0/legalcode
+
+2. Code (docs/assets/, docs/tools/, tests/, the build and workflow
+   configuration) is licensed under the MIT License below.
+
 MIT License
 
 Copyright (c) 2026 Freddrick Logan
