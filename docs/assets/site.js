@@ -1,9 +1,10 @@
 /** Mounts the Executive Shell on every page; KPIs come from the risk module, not typed in. */
 import { mountExecShell } from './shell/exec-shell.js';
-import { gotoTool } from './shell/tool-page.js';
+import { followScheme, gotoTool } from './shell/tool-page.js';
 import { RISKS, RED_FLAGS, RECOMMENDATIONS } from './lib/risk.js';
 
 mountExecShell({
+  theme: 'ember',
   title: 'AI Ethics in Education Framework',
   tagline: 'Ethical principles, a bias-assessment framework, deployment guidelines, an AI-literacy curriculum and an impact-assessment template for AI in educational settings — published as a documentation site, with the template\'s risk section implemented as a worksheet that produces a recommendation.',
   repo: 'https://github.com/Freddricklogan/AI-Ethics-Education-Framework',
@@ -21,3 +22,4 @@ mountExecShell({
   ],
   mainSelector: '.md-main'
 });
+followScheme();
